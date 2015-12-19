@@ -38,6 +38,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private Activity mActivity;
     private String mShareUrl = "http://baidu.com", shareContent = "yuyue", shareTitle = "share", mSharePic = "";// 分享URL
     private Bitmap shareBitmap = null;
+    private String mTitle = "";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
