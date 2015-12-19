@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ShareDemo</string>
+    <string name="action_settings">Settings</string>
+
+    <!--微信-->
+    <string name="errcode_success">成功</string>
+    <string name="errcode_cancel">失敗</string>
+    <string name="errcode_deny">超时</string>
+    <string name="errcode_unknown">未知错误</string>
+
+</resources>

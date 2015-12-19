@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- 项目主色 -->
+    <color name="yellow">#ff9900</color>
+    <color name="yellow_1">#faeedd</color>
+    <color name="yellow_2">#ffc671</color>
+    <color name="yellow_3">#ff9900</color>
+
+    <color name="orange_1">#ff9900</color>
+
+    <color name="gray_0">#fafafa</color>
+    <color name="gray_1">#f2f2f2</color>
+    <color name="gray_2">#ededed</color>
+    <color name="gray_3">#e5e5e5</color>
+    <color name="gray_4">#cccccc</color>
+    <color name="gray_5">#999999</color>
+    <color name="gray_6">#808080</color>
+    <color name="gray_7">#666666</color>
+    <color name="gray_8">#333333</color>
+    <color name="gray_9">#d9d9d9</color>
+</resources>
