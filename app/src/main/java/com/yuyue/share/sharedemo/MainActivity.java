@@ -40,6 +40,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private Bitmap shareBitmap = null;
     private String mTitle = "";
     private String mTitle1 = "";
+    private String mTitle2 = "";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
