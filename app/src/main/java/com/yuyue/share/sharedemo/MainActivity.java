@@ -43,6 +43,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private String mTitle2 = "";
     private String mAddTitle = "feature add name";
     private String mAddTitle1 = "feature add name1";
+    private String mAddImage = "feature add image";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
