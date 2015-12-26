@@ -41,6 +41,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private String mTitle = "";
     private String mTitle1 = "";
     private String mTitle2 = "";
+    private String mAddTitle = "feature add name";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
